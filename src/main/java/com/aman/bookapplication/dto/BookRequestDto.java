@@ -17,4 +17,5 @@ public class BookRequestDto {
     String ISBN;
     LocalDate publicationDate;
     BigDecimal price;
+
 }
